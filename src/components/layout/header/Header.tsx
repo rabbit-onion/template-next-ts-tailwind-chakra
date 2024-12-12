@@ -36,7 +36,7 @@ const search = () => {
 const Header = () => {
   return (
     <header className='py-2'>
-      <Flex className='container items-center'>
+      <Flex className='items-center px-5 md:px-8'>
         <h1>
           <Link href={'/'}>logo</Link>
         </h1>

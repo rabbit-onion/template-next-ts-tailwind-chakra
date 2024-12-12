@@ -1,6 +1,5 @@
 import React from 'react';
-import { Menu as MenuWrap, MenuButton, MenuList, MenuItem, IconButton, Button, Avatar } from '@chakra-ui/react';
-import { AddIcon, EditIcon, ExternalLinkIcon, HamburgerIcon, RepeatIcon } from '@chakra-ui/icons';
+import { Menu as MenuWrap, MenuButton, MenuList, MenuItem, Button, Avatar } from '@chakra-ui/react';
 import { ChevronDownIcon } from 'lucide-react';
 
 const MenuHam = () => {
